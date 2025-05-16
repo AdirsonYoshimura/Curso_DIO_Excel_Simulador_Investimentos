@@ -13,6 +13,7 @@ Seguindo as instruções sugeridas, utilizei opções de formatações aplicadas
 7. Utilização de formula PROCV para definir quais valores serão utilizados, de acordo com a escolha do perfil do investidor acima. A combinação do PROCH e PROCV realizam tal extração;
 8. Geração de Gráfico do perfil do investidor, apresentando os percentuais, de acordo com o tipo de FII
 9. Inserção de rodapé com versão, data e nome do autor.
+10. Inserido proteção de campos para evitar modificações de conteúdos não permitidos.
 
 Tabela de suporte para as pesquisas (na aba TIPO_FII)
 
